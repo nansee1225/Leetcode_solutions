@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nansee1225/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/nansee1225/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nansee1225/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nansee1225/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nansee1225/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nansee1225/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
