@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nansee1225/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nansee1225/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/nansee1225/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/nansee1225/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/nansee1225/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nansee1225/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nansee1225/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/nansee1225/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/nansee1225/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nansee1225/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/nansee1225/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
